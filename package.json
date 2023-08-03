@@ -1,0 +1,6 @@
+{
+  "name": "@keithclark/monorepo-test",
+  "workspaces": [
+    "./packages/*"
+  ]
+}

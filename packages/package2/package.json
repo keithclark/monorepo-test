@@ -1,0 +1,5 @@
+{
+  "name": "@keithclark/package2",
+  "type": "module",
+  "main": "index.js"
+}
